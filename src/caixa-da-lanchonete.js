@@ -65,9 +65,4 @@ class CaixaDaLanchonete {
     }
 }
 
-export { CaixaDaLanchonete };
-
-
-//dinheiro -5%
-//credito +3%
-
+export { CaixaDaLanchonete }
